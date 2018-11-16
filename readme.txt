@@ -1,1 +1,1 @@
-yum install -y wget && wget https://github.com/jiefangit/wg/blob/master/wginstall.sh && chmod +x wginstall.sh && ./wginstall.sh
+yum install -y wget && wget https://github.com/jiefangit/wg/blob/master/wireguard_install.sh && chmod +x wireguard_install.sh && ./wireguard_install.sh
